@@ -1,2 +1,22 @@
-# Artificial-Intelligence-using-Python
-This repository serves as a central hub for my work in Artificial Intelligence using Python, featuring academic exercises and independent data-driven projects. The contents range from fundamental Python programming and Object-Oriented Programming (OOP) to advanced Machine Learning and Deep Learning implementations.
+# Artificial Intelligence with Python
+
+A practical portfolio and learning repository covering **Python programming, Machine Learning, Deep Learning, and data-driven AI development**.
+
+## Areas Covered
+
+- Python fundamentals and Object-Oriented Programming
+- Data analysis and preprocessing
+- Machine Learning
+- Deep Learning
+- Model development and experimentation
+- Practical AI exercises and projects
+
+## Technologies
+
+**Python** • **NumPy** • **Pandas** • **Scikit-learn** • **TensorFlow/Keras** • **Matplotlib** • **Seaborn**
+
+## Purpose
+
+This repository documents hands-on learning and implementation work in Artificial Intelligence using Python, progressing from programming fundamentals to applied machine learning and deep learning.
+
+> The repository is maintained as part of an ongoing AI/ML engineering portfolio.
